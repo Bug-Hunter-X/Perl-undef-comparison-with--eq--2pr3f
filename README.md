@@ -1,0 +1,1 @@
+This example demonstrates a common error in Perl when dealing with undefined values. The 'eq' operator is not suitable for comparing against 'undef'.  The correct approach uses defined().  This repository provides both the erroneous code and its corrected version.
